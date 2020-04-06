@@ -1,0 +1,23 @@
+[
+  {
+    "src": "src/assets/images/us1.jpg",
+    "id": 1,
+    "altText": "Stone Mountain",
+    "caption": "Love of my life!",
+    "captionHeader": "Stone Mountain"
+  },
+  {
+    "src": "src/assets/images/rubyfalls.jpg",
+    "id": 2,
+    "altText": "Ruby Falls",
+    "caption": "Deep under ground",
+    "captionHeader": "Ruby Falls"
+  },
+  {
+    "src": "src/assets/images/stonemountain.jpg",
+    "id": 3,
+    "altText": "Stone Mountain",
+    "caption": "Top of the world",
+    "captionHeader": "Stone Mountain"
+  }
+]
